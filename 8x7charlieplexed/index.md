@@ -47,7 +47,7 @@ Note: this is the opposite side to what is normally shown on the internet.
   src="https://www.youtube.com/embed/YZnQFtUXSJo?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
 
-* Download the Arduino software from: https://www.arduino.cc/en/Main/Software
+* Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Nano under Tools>Baord in the arduino software
 * Select the correct comport under Toold>Port in the arduino software
 * Download the code [from github](https://github.com/emilyhammes/8x7charlieplexed/archive/master.zip) and upload it to the Arduino.
