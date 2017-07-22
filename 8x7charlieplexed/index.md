@@ -13,9 +13,9 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
   frameborder="0"></iframe>
   
 ### Materials
-  8 resistors
-  56 LEDs
-  8 pin female pin header
+  * 8 resistors
+  * 56 LEDs
+  * 8 pin female pin header
   
 ### To solder the shield follow these steps:
   1. Solder the resistors.
