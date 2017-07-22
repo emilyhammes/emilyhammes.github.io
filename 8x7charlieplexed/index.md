@@ -42,11 +42,12 @@ Note: this is the opposite side to what is normally shown on the internet.
 6. Assembel the T-shaped offset, and place it into the case. 
 7. Close the case. Friction should hold the back in place. 
 
-## Uploading Code for Snakes
+### Uploading Code for Snakes
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/YZnQFtUXSJo?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
 
-## Uploading Code for Text
-
-
+Download the Arduino software from: https://www.arduino.cc/en/Main/Software
+Select Arduino Nano under Tools>Baord in the arduino software
+Select the correct comport under Toold>Port in the arduino software
+Download the code here and upload it to the Arduino.
