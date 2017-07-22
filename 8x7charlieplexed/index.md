@@ -18,8 +18,15 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
   8 pin female pin header
   
   ### To solder the shield follow these steps:
-  1. Solder the resistors 
+  1. Solder the resistors.
+  2. Cut the leads on all of the LEDs to 2.5-3mm.
+  3. Solder 1 side of each of the LEDs, making sure that the flat side of the LED matches the flat side on the silkscreen.
+  4. Align the LEDs by remelting the solder and moving the LED into place.
+  5. Once aligned, solder the other side of the LEDs. 
+  6. Solder the female pin header.
   
+    Note: Some people like to leave the leads long and bend them to hold them inplace before soldering. Then they trim them after soldering. This is not reccomended for this project because it makes alignment and replacement of LEDs difficult or impossible. 
+    
 ## Building The Laser Cut Case  
 
 ## Building The 3D Printed Case
