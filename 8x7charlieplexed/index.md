@@ -30,13 +30,17 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
 ## The Laser Cut Case 
 ### Soldering the Arduino Nano
 1. Solder the pin headers onto the arduino nano so that the pins point up on the same side as the USB. 
+
 Note: this is the opposite side to what is normally shown on the internet.
 
 ### Building the Case
-1. Glue the front and sides together leaving the back pannel unglued. 
-2. 
-
-## The 3D Printed Case
+1. Glue the front and sides together leaving the back pannel unglued. It is often useful to use the back to make sure all parts are alligned, but be very careful not to get glue on the back pannel!
+2. Wait for glue to dry.
+3. Once glue is dry, place the offset angles into the case.
+4. Plug pins 2-9 of the Arduino into the shield. 
+5. Place the shield and arduino into the case.
+6. Assembel the T-shaped offset, and place it into the case. 
+7. Close the case. Friction should hold the back in place. 
 
 ## Uploading Code for Snakes
 <iframe id="ytplayer" type="text/html" width="640" height="360"
