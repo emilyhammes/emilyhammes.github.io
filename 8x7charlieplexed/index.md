@@ -49,5 +49,5 @@ Note: this is the opposite side to what is normally shown on the internet.
 
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Nano under Tools > Baord in the Arduino software
-* Select the correct comport under Tools > Port in the arduino software
+* Select the correct comport under Tools > Port in the Arduino software
 * Download the code [from github](https://github.com/emilyhammes/8x7charlieplexed/archive/master.zip) and upload it to the Arduino.
