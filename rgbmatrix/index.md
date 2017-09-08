@@ -4,11 +4,11 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
 
 ## Theory
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=jLnLXc81mwI?autoplay=0&origin=http://hammeshacks.com"
+  src="https://www.youtube.com/embed/jLnLXc81mwI?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
   
   <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
+  src="https://www.youtube.com/embed/OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
 
 ## Soldering The Shield
