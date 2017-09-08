@@ -33,8 +33,6 @@ To understand how multiplexing works, it is easiest to start with the theory for
   6. Solder cut and solder the pin header.
   
     Note: Some people like to leave the leads long and bend them to hold them inplace before soldering. Then they trim them after soldering. This is not reccomended for this project because it makes alignment and replacement of LEDs difficult or impossible. 
-    
-## The Laser Cut Case 
 
 ### Building the Case
 1. Glue all sides of the case together except the one with the connector for the arduino (the one with hammes hacks engraved in it). 
@@ -46,10 +44,13 @@ To understand how multiplexing works, it is easiest to start with the theory for
 
 ### Uploading Code 
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/YZnQFtUXSJo?autoplay=0&origin=http://hammeshacks.com"
+  src="https://www.youtube.com/embed/ZdOZB8iYkNo?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/RqE0sPx6IlQ?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
 
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
-* Select Arduino Nano under Tools>Baord in the arduino software
+* Select Arduino Uno under Tools>Baord in the arduino software
 * Select the correct comport under Toold>Port in the arduino software
 * Download the code [from github](https://github.com/emilyhammes/8x7charlieplexed/archive/master.zip) and upload it to the Arduino.
