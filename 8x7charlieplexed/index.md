@@ -1,6 +1,6 @@
 # 8x7 Charlieplexed LED Shield
 ## Introduction
-The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 adjcient pins on a microcontroler such as an Arduino Pro Mini or an Arduino Nano. By controling the state of the pins all LEDs can be individually turned on or off.
+The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 adjacent pins on a microcontroller such as an Arduino Pro Mini or an Arduino Nano. By controlling the state of the pins all LEDs can be individually turned on or off.
 
 ## Theory
 <iframe id="ytplayer" type="text/html" width="640" height="360"
@@ -25,22 +25,22 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
   5. Once aligned, solder the other side of the LEDs. 
   6. Solder the female pin header.
   
-    Note: Some people like to leave the leads long and bend them to hold them inplace before soldering. Then they trim them after soldering. This is not reccomended for this project because it makes alignment and replacement of LEDs difficult or impossible. 
+    Note: Some people like to leave the leads long and bend them to hold them in place before soldering. Then they trim them after soldering. This is not recommended for this project because it makes alignment and replacement of LEDs difficult or impossible. 
     
 ## The Laser Cut Case 
 ### Soldering the Arduino Nano
-1. Solder the pin headers onto the arduino nano so that the pins point up on the same side as the USB. 
+1. Solder the pin headers onto the Arduino Nano so that the pins point up on the same side as the USB. 
 
 Note: this is the opposite side to what is normally shown on the internet.
 
 ### Building the Case
-1. Glue the front and sides together leaving the back pannel unglued. It is sometimes useful to place a rubber band around the edges to put pressure on the case while the glue drys. 
-2. Glue the offsets into the front inside of the case. These are the 7 sticks in the kit. They are used to make the leds flush with the case. The edge where the pinheaders of the shiled go will only have one stick while the other edges each have 2.
-3. Wait for glue to dry. It is sometimes useful to place the back of the case on while the glue drys for stability, but be careful not to glue it in place!
-4. Plug pins 2-9 of the Arduino into the shield. 
-5. Place the shield and arduino into the case.
-6. Assembel the T-shaped offset, and place it into the case. 
-7. Close the case. Friction should hold the back in place. 
+1.	Glue the front and sides together leaving the back panel unglued. It is often useful to use the back to make sure all parts are aligned, but be very careful not to get glue on the back panel!
+2.	Wait for glue to dry.
+3.	Once glue is dry, place the offset angles into the case.
+4.	Plug pins 2-9 of the Arduino into the shield.
+5.	Place the shield and Arduino into the case.
+6.	Assemble the T-shaped offset, and place it into the case.
+7.	Close the case. Friction should hold the back in place.
 
 ### Uploading Code for Snakes
 <iframe id="ytplayer" type="text/html" width="640" height="360"
@@ -48,6 +48,6 @@ Note: this is the opposite side to what is normally shown on the internet.
   frameborder="0"></iframe>
 
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
-* Select Arduino Nano under Tools>Baord in the arduino software
-* Select the correct comport under Toold>Port in the arduino software
+* Select Arduino Nano under Tools > Baord in the Arduino software
+* Select the correct comport under Tools > Port in the arduino software
 * Download the code [from github](https://github.com/emilyhammes/8x7charlieplexed/archive/master.zip) and upload it to the Arduino.
