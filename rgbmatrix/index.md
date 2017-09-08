@@ -1,19 +1,22 @@
 # Multiplexed RGB LED Shield
 ## Introduction
-The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 adjcient pins on a microcontroler such as an Arduino Pro Mini or an Arduino Nano. By controling the state of the pins all LEDs can be individually turned on or off.
+The Multiplexed RGB Shield contains 24 RGB LEDs in a 4x6 matrix and plugs into an Arduino Uno. By controling the state of the pins all LEDs can be individually turned on or off and their colors can be controled.
 
 ## Theory
+To understand how multiplexing works, it is easiest to start with the theory for a single color multiplexed matrix: 
+
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/jLnLXc81mwI?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
   
+  Multiplexing with RGB leds is basically the same as monocrome multiplexing with some small differences:
   <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
 
 ## Soldering The Shield
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/YMQ2k3mRRPE?autoplay=0&origin=http://hammeshacks.com"
+  <iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
   
 ### Materials
