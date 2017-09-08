@@ -1,4 +1,4 @@
-# 8x7 Charlieplexed LED Shield
+# Multiplexed RGB LED Shield
 ## Introduction
 The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 adjcient pins on a microcontroler such as an Arduino Pro Mini or an Arduino Nano. By controling the state of the pins all LEDs can be individually turned on or off.
 
