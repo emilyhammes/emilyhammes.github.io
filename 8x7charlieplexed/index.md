@@ -34,9 +34,9 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
 Note: this is the opposite side to what is normally shown on the internet.
 
 ### Building the Case
-1. Glue the front and sides together leaving the back pannel unglued. It is often useful to use the back to make sure all parts are alligned, but be very careful not to get glue on the back pannel!
-2. Wait for glue to dry.
-3. Once glue is dry, place the offset angles into the case.
+1. Glue the front and sides together leaving the back pannel unglued. It is sometimes useful to place a rubber band around the edges to put pressure on the case while the glue drys. 
+2. Glue the offsets into the front inside of the case. These are the 7 sticks in the kit. They are used to make the leds flush with the case. The edge where the pinheaders of the shiled go will only have one stick while the other edges each have 2.
+3. Wait for glue to dry. It is sometimes useful to place the back of the case on while the glue drys for stability, but be careful not to glue it in place!
 4. Plug pins 2-9 of the Arduino into the shield. 
 5. Place the shield and arduino into the case.
 6. Assembel the T-shaped offset, and place it into the case. 
