@@ -11,9 +11,9 @@ To understand how multiplexing works, it is easiest to start with the theory for
   
   Multiplexing with RGB leds is basically the same as monocrome multiplexing with some small differences:
   <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
+  src="https://www.youtube.com/embed/jQYGCGH9bMM?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0"></iframe>
-
+  
 ## Soldering The Shield
   <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
