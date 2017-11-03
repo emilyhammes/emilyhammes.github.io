@@ -36,12 +36,13 @@ Note: to see the difference between setup and loop compare the code in redOn to 
   * 1 10K ohm resistor
   * 1 RGB LED
   * 1 Light Dependant Resistor (LDR)
-  * male pin header
+  * 1 Button
+  * Male pin header
   
 ### To solder the shield follow these steps:
   1. Solder the 220 ohm resistors to the R-red R-green and R-blue pads.
   
-  2. Cut the leads on all of the LEDs to 2.5-3mm.
+  2. Cut the leads on the LED to 2.5-3mm.
   3. Solder 1 side of each of the LEDs, making sure that the flat side of the LED matches the flat side on the silkscreen. I usually do the Square pin first.
   4. Align the LEDs by remelting the solder and moving the LED into place.
   5. Once aligned, solder the other pins on the LEDs. 
