@@ -20,8 +20,12 @@ where the elipsis is replaced by code which is run in a loop forever, this is kn
 
 Note: to see the difference between setup and loop compare the code in redOn to redBlink.
 ### Digital Output
+Digital outputs allow us to tell a pin to be high or low. High is sometimes called 1 and low is sometimes written as 0. In the Intro to Arduino shield, we use digital outputs to turn on or blink lights, act as a power source or act as a ground pin. 
+To set a pin as digital somewhere in the code we need to write "pinMode (redLED, OUTPUT);" and then "digitalWrite(redLED, LOW/HIGH/0/1);",  where redLED could be a pin number or a variable name we defined previously. 
 ### Analog Output
+If digitial outputs are like an on off switch, analog outputs are like dimmers. They work by switching a pin between high and low much faster than you can see. The ratio of on to off is defined by a number between 0 and 255, 0 being low all the time and 255 being high all the time. Just like with digital outputs, we need to write "pinMode (redLED, OUTPUT);" however, next we need to write  "analogWrite(redLED, 0-255);" where 0-255 is any number in that range. 
 ### Digital Input
+Digital inputs are things that can be either on or off with nothing inbetween like a button or a switch. Similar to digital outputs we need to set the pinMode but this time we set the pinmode to input: "pinMode(button, INPUT);". Alternatively, if we are using a button, sometimes we need to use an integrated pullup resistor. If this is the case, we set pinmode to input pullup "pinMode(button, INPUT_PULLUP);". When we want to read the state of the button, the code will read digitalRead(button), where button is a previously defined variable.
 ### Analog Input
 ### State Machienes
 
@@ -41,14 +45,16 @@ Note: to see the difference between setup and loop compare the code in redOn to 
   
 ### To solder the shield follow these steps:
   1. Solder the 220 ohm resistors to the R-red R-green and R-blue pads.
-  
-  2. Cut the leads on the LED to 2.5-3mm.
-  3. Solder 1 side of each of the LEDs, making sure that the flat side of the LED matches the flat side on the silkscreen. I usually do the Square pin first.
-  4. Align the LEDs by remelting the solder and moving the LED into place.
-  5. Once aligned, solder the other pins on the LEDs. 
+  2. Solder the 10K ohm resistor on the R-LDR pad
+  3. Cut the leads on the LED to 2.5-3mm.
+  3. Solder one pad on the LED, making sure that the flat side of the LED matches the flat side on the silkscreen. I usually do the Square pin first.
+  4. Align the LED by remelting the solder and moving the LED into place.
+  5. Once aligned, solder the other pins on the LED.
   6. Solder cut and solder the pin header.
+  7. Solder the LDR so that the leads are long enough that you can bend the sensor away from the LED (if soldered on top) or away from the board if soldered on bottom.
+  8. Solder the button.
   
-  Note: Some people like to leave the leads long and bend them to hold them in place before soldering. Then they trim them after soldering. This is not recommended for this project because it makes alignment and replacement of LEDs difficult or impossible.
+  Note: Some people like to leave the leads long and bend them to hold them in place before soldering. Then they trim them after soldering. If you do this, make sure that the LED has the correct orientation before you start soldering!
 
 ### Uploading Code 
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
