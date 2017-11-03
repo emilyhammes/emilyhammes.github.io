@@ -17,10 +17,12 @@ void loop () {
 ...
 }
 where the elipsis is replaced by code which is run in a loop forever, this is known as an infinite loop. For example, lets say that you wanted to change what the red light was doing when the device was powered: instead of being on, you now want it to blink. To do that you would need to tell the light to turn on in this section and then wait for some time and turn off and wait for more time. After waiting, the loop would run out of instructions and would start over at the begining ... the light would turn back on... time would pass... the light would turn off.... forever (or until the battery died).
-### Digital Input
-### Analog Input
+
+Note: to see the difference between setup and loop compare the code in redOn to redBlink.
 ### Digital Output
 ### Analog Output
+### Digital Input
+### Analog Input
 ### State Machienes
 
   
