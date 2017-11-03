@@ -27,13 +27,13 @@ If digitial outputs are like an on off switch, analog outputs are like dimmers. 
 ### Digital Input
 Digital inputs are things that can be either on or off with nothing inbetween like a button or a switch. Similar to digital outputs we need to set the pinMode but this time we set the pinmode to input: "pinMode(button, INPUT);". Alternatively, if we are using a button, sometimes we need to use an integrated pullup resistor. If this is the case, we set pinmode to input pullup "pinMode(button, INPUT_PULLUP);". When we want to read the state of the button, the code will read digitalRead(button), where button is a previously defined variable.
 ### Analog Input
-### State Machienes
+Analog inputs are things that can be in any state between high and low. One example is a Light Dependand Resistor (LDR). The resistance in an LDR changes based on how much light hits the sensor surface. Using Ohm's Law (V=IR), we can translate the change in resistance to a change in voltage. The Arduino can approximate what the voltage on the pin is. To do this we need to include the following lines of code: "pinMode (LIGHT, INPUT);" followed by "analogRead(LIGHT);" where LIGHT is a variable which defines which pin the LDR is on.  
+### Non-Blocking State Machiene
+Normal computers (and human brains) can think about more than one thing at once, but Arduinos (and other microcontrollers) cannot. That means that if you want to do two things at the same time (like blink a light once every 2 seconds and check if a button was pressed), and you do not know which will happen first or when one will happen, you cannot use the delay command. This is because when delay is called, the microcontroller just stops and will not notice if a button is being pressed. The user could wait 2 seconds (1 second light on 1 second light off) before the microcontroller got to the line of code where the button state is being read. This is too slow!
 
+To fix this we use a non-blocking state machiene. This is a simple technique where you replace the delay function with a variable which tells you when an event, like turning the light on or off, should happen. The microcontroller then goes through the loop much faster because it only asks is it time yet? and is the button pushed?. When the desired amount of time has passed, the state of the LED (on or off) is switched and a new time is assigned. Reading the button state (pushed or not pushed) is no longer blocked by blinking the LED.
   
 ## Soldering The Shield
-  //<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
   
 ### Materials
   * 3 220 ohm resistors
