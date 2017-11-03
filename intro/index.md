@@ -1,18 +1,15 @@
 # Intro to Arduino Shield
 ## Introduction
-The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor and red green blue LED. 
+The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input. 
 
 ## Theory
-To understand how multiplexing works, it is easiest to start with the theory for a single color multiplexed matrix: 
+### How Arduino Code is Organized
+### Digital Input
+### Analog Input
+### Digital Output
+### Analog Output
+### State Machienes
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/jLnLXc81mwI?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
-  
-Multiplexing with RGB LEDs is basically the same as monochrome multiplexing with some small differences:
-  <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/jQYGCGH9bMM?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
   
 ## Soldering The Shield
   //<iframe id="ytplayer" type="text/html" width="640" height="360"
