@@ -1,4 +1,9 @@
 # Intro to Arduino Shield
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/v=vzUWGo-a7EA&list=PLOODSiZqm-6Vm45pemXBhKMmCtVTKruHoautoplay=0&origin=http://hammeshacks.com" frameborder="0"></iframe>
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/YMQ2k3mRRPE?autoplay=0&origin=http://hammeshacks.com" frameborder="0"></iframe>
+
 ## Introduction
 The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input. 
 
