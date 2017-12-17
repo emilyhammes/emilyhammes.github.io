@@ -5,7 +5,8 @@
 ## Cost @ CCC Leipzig
 * Class (shield and components only) 25 Euro.
 * Class (shield and components and Arduino Uno clone) 35 Euro. 
-note: If you finished Mitch's class, bring your finished kit. 
+
+Note: If you finished Mitch's class, bring your finished kit. 
 
 ## What to Bring @ CCC
 * Glasses (if you need them for lectures or fine print)
