@@ -7,17 +7,17 @@ To understand how multiplexing works, it is easiest to start with the theory for
 
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/jLnLXc81mwI?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
   
 Multiplexing with RGB LEDs is basically the same as monochrome multiplexing with some small differences:
   <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/jQYGCGH9bMM?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
   
 ## Soldering The Shield
   <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/OaYhBevXBYk?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
   
 ### Materials
   * 12 resistors
@@ -45,10 +45,10 @@ Multiplexing with RGB LEDs is basically the same as monochrome multiplexing with
 ### Uploading Code 
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/ZdOZB8iYkNo?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/RqE0sPx6IlQ?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
 
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Uno under Tools > Baord in the Arduino software
