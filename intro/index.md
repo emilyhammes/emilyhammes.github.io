@@ -11,7 +11,7 @@ Arduino codes are often organized in the following way:
 1. At the top of the file is an explanation of what the code does. This is written so that people can quickly understand what you are trying to do without reading the whole file. So that the computer does not get confused by this text, the programmer needs to tell the computer to ignore it. We do this by putting it in a comment. Single line comments in the Arduino IDE (Arduino software) begin with `//`. Multiline comments begin with `/* and end with */`. Comments are also used within the code to explain confusing parts in words so that they are easy to understand a year later. 
 2. Next globally defined variables are declared. Global variables allow us to define something in a place where it can be accessed by the whole program. They allow us to give abstract ideas names instead of numbers. For example, in the intro shield pin 6 always has a red LED on it. By creating the global variable redLED and assigning it a value of 6 we do not need to remember which pin redLED is on, we just need to remember that it is called redLED. 
 3. After the global variables there is always a setup function. This looks like:
-```
+``` C
 void setup () {
 ... 
 }
