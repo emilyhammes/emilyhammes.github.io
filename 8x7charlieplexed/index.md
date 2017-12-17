@@ -5,12 +5,12 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
 ## Theory
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/Bx5GLyJSWPk?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
 
 ## Soldering The Shield
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/YMQ2k3mRRPE?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
   
 ### Materials
   * 8 resistors
@@ -45,7 +45,7 @@ Note: this is the opposite side to what is normally shown on the internet.
 ### Uploading Code for Snakes
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/YZnQFtUXSJo?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
 
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Nano under Tools > Baord in the Arduino software
