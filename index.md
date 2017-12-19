@@ -6,4 +6,6 @@
 
 [Multiplexed RGB Shield](rgbmatrix)
 
+[Tiny Snowflake](snowflake)
+
 
