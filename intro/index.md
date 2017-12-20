@@ -68,6 +68,10 @@ To fix this we use a non-blocking state machiene. This is a simple technique whe
   * Male pin header
   
 ### To solder the shield follow these steps:
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/WIbpW6RbdmI?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0" allowfullscreen></iframe>
+
   1. Solder the 220 ohm resistors to the R-red R-green and R-blue pads.
   2. Solder the 10K ohm resistor on the R-LDR pad
   3. Cut the leads on the LED to 2.5-3mm.
