@@ -88,5 +88,5 @@ To fix this we use a non-blocking state machiene. This is a simple technique whe
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Uno under Tools > Baord in the Arduino software
 * Select the correct comport under Tools > Port in the Arduino software
-* Copy the code from the bottom of each video and paste into the Arduino IDE
+* Copy the code from the bottom of each video and paste into the Arduino IDE or [get the code from github](https://github.com/emilyhammes/Intro_to_Arduino_Shield).
 * Click on the arrow symbol in the Arduino IDE
