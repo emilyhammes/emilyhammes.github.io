@@ -36,3 +36,14 @@ The Tiny Snowflake is a PCB shaped like a snow flake with 19 LEDs. The LEDS are 
 
 ### Uploading Code 
 * Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/snowflake-firmware).
+
+### Whats Inside the PCB?
+
+<img alt="schmatic" src="snowflake-schmatic.jpg" width="100%" />
+
+This is the schematic of the PCB, showing how all the components are connected.
+
+<img alt="PCB" src="snowflake-pcb.jpg" width="45%" />
+
+
+This is a transparent view of the PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 
