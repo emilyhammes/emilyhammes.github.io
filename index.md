@@ -19,7 +19,7 @@
 
 [Makers Faire Prague](https://prague.makerfaire.com/)
 
-[HOPE](http://hope.net/index.html)
+[HOPE (hopefully)](http://hope.net/index.html)
 
 # Past Events
 [34C3](https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing)
