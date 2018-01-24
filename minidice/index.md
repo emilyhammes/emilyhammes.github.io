@@ -36,4 +36,4 @@ Seven segment displays are simple to control:
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Uno under Tools > Baord in the Arduino software
 * Select the correct comport under Tools > Port in the Arduino software
-* Download the code [from github](https://github.com/emilyhammes/minipong-promicro/archive/master.zip) and upload it to the Arduino.
+* Download the code [from github](https://github.com/emilyhammes/minidice) and upload it to the Arduino.
