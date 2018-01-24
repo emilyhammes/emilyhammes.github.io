@@ -37,3 +37,7 @@ Seven segment displays are simple to control:
 * Select Arduino Uno under Tools > Baord in the Arduino software
 * Select the correct comport under Tools > Port in the Arduino software
 * Download the code [from github](https://github.com/emilyhammes/minidice) and upload it to the Arduino.
+
+### Whats Inside the PCB
+
+<img alt="schmatic" src="snowflake_front.jpg" width="45%" /><img alt="PCB" src="https://github.com/emilyhammes/minidice/blob/master/dice-pcb.jpg" width="45%" />
