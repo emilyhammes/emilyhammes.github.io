@@ -12,7 +12,13 @@ Seven segment displays are simple to control:
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/ZrYyVWv4Ff8?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
-  
+
+And then we just need a button to simulate a roll of the dice:
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/C5elus14muQ?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0" allowfullscreen></iframe>
+
 ## Soldering The Shield
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/T7TJJyWkgUs?autoplay=0&origin=http://hammeshacks.com"
