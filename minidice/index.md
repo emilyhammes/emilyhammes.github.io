@@ -38,6 +38,9 @@ Seven segment displays are simple to control:
 * Select the correct comport under Tools > Port in the Arduino software
 * Download the code [from github](https://github.com/emilyhammes/minidice) and upload it to the Arduino.
 
-### Whats Inside the PCB
+### Whats Inside the PCB?
 
-<img alt="schmatic" src="snowflake_front.jpg" width="45%" /><img alt="PCB" src="https://github.com/emilyhammes/minidice/blob/master/dice-pcb.jpg" width="45%" />
+<img alt="schmatic" src="schmatic.jpg" width="90%" />
+This is the schematic of the PCB, showing how all the components are connected.
+<img alt="PCB" src="dice-pcb.jpg" width="45%" />
+This is a transparent view of the PCB. Green lines are wires on one side and Red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. the gold circles are drilled through the board and have copper on both sides. 
