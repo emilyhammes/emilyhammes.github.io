@@ -51,3 +51,14 @@ Note: this is the opposite side to what is normally shown on the internet.
 * Select Arduino Nano under Tools > Baord in the Arduino software
 * Select the correct comport under Tools > Port in the Arduino software
 * Download the code [from github](https://github.com/emilyhammes/8x7charlieplexed/archive/master.zip) and upload it to the Arduino.
+
+### Whats Inside the PCB?
+
+<img alt="schmatic" src="5mm-schmatic.jpg" width="100%" />
+
+This is the schematic of the PCB, showing how all the components are connected.
+
+<img alt="PCB" src="5mm-pcb.jpg" width="45%" /> <img alt="PCB" src="3mm-pcb.jpg" width="45%" />
+
+
+Above left is a transparent view of the 5mm LED PCB. Above right is a view of the 3mm LED PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 

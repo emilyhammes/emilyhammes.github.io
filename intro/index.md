@@ -73,3 +73,14 @@ To fix this we use a non-blocking state machiene. This is a simple technique whe
 * Select the correct comport under Tools > Port in the Arduino software
 * Copy the code from the bottom of each video and paste into the Arduino IDE or [get the code from github](https://github.com/emilyhammes/Intro_to_Arduino_Shield).
 * Click on the arrow symbol in the Arduino IDE
+
+### Whats Inside the PCB?
+
+<img alt="schmatic" src="intro-schmatic.jpg" width="90%" />
+
+This is the schematic of the PCB, showing how all the components are connected.
+
+<img alt="PCB" src="intro-pcb.jpg" width="45%" />
+
+
+This is a transparent view of the PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 
