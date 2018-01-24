@@ -10,6 +10,8 @@
 
 [Minipong](minipong)
 
+[Minidice](minidice)
+
 # Upcomming Events
 [Makers Faire Nuermberg](https://maker-faire.de/thalia/)
 
