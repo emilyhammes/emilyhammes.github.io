@@ -31,8 +31,6 @@ The Tiny Snowflake is a PCB shaped like a snow flake with 19 LEDs. The LEDS are 
 4. Solder the Resistors onto the PCB. 
 5. Solder the power cable onto the PCB.
 6. (Optional) Chain them together by soldering cables onto eachother.
-  
-  Note: Some people like to leave the leads long and bend them to hold them in place before soldering. Then they trim them after soldering. If you do this, make sure that the LED has the correct orientation before you start soldering!
 
 ### Uploading Code 
 * Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/snowflake-firmware).
