@@ -12,6 +12,8 @@
 
 [Minidice](minidice)
 
+[Tiny Dice](tinydice)
+
 # Upcomming Events
 [Makers Faire Nuremberg](https://maker-faire.de/thalia/)
 
