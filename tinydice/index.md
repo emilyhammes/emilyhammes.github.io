@@ -1,8 +1,4 @@
 # Tiny Dice
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/Tw_KlINMhWY?autoplay=0&origin=http://hammeshacks.com"
-  frameborder="0" allowfullscreen></iframe>
-
 
 ## Introduction
 The Tiny Dice is a PCB with 14 LEDs which represent 2 dice faces. The LEDS are controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatable.
@@ -12,7 +8,7 @@ The Tiny Dice is a PCB with 14 LEDs which represent 2 dice faces. The LEDS are c
   src="https://www.youtube.com/embed/Bx5GLyJSWPk?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
   
-## Soldering The Snowflake
+## Soldering The Dice
   
 ### Materials
   * 7 110 Ohm resistors
