@@ -21,7 +21,7 @@ The Tiny Snowflake is a PCB shaped like a snow flake with 19 LEDs. The LEDS are 
   * 1 ATtiny13A
   * 5v power source (USB, batteries, etc.)
   
-### To solder the shield follow these steps:
+### To solder the snowflake follow these steps:
 <img alt="Front of Snowflake" src="snowflake_front.jpg" width="45%" /><img alt="Back of Snowflake" src="snowflake_back.jpg" width="45%" />
 
 1. Solder on all 19 LEDS paying attention to the LED orientation on the silkscreen.
