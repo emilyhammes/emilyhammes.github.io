@@ -15,11 +15,11 @@
 [Tiny Dice](tinydice)
 
 # Upcomming Events
-[Makers Faire Nuremberg](https://maker-faire.de/thalia/)
-
 [ETH Zurich](http://www.bastli.ethz.ch/)
 
 [Makers Faire Prague](https://prague.makerfaire.com/)
+
+[Makers Faire Berlin](https://en.maker-faire.de/berlin/)
 
 [HOPE (hopefully)](http://hope.net/index.html)
 
@@ -28,6 +28,9 @@
 
 [Hammer Space](https://www.meetup.com/Hammerspace-Community-Workshop-and-Makerspace/events/244874058/)
 
+[Maker Faire Zurich](http://www.actioncy.ch/index.php/workshops/)
+
 [SHA2017](<https://wiki.sha2017.org/w/Session:Pink_Snakes_and_Other_Blinking_LEDS_(Solder_and_assemble_kits)>)
 
-[Maker Faire Zurich](http://www.actioncy.ch/index.php/workshops/)
+[Homemade](http://www.mechatronicart.ch/blog/homemade-tenna-report)
+
