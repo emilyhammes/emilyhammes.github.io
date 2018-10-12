@@ -8,22 +8,34 @@
 
 [Tiny Snowflake](snowflake)
 
+[Tiny Heart]()
+
+[Tiny Shamrock]()
+
+[Tiny Dragonfly]()
+
 [Minipong](minipong)
 
 [Minidice](minidice)
 
 [Tiny Dice](tinydice)
 
-# Upcomming Events
+# Upcomming Events/Tennative Events
+[35C3](https://events.ccc.de/2018/10/10/35c3-tickets-presale/)
+
+[Zurich International School](https://www.zis.ch/)
+
 [ETH Zurich](http://www.bastli.ethz.ch/)
+
+# Past Events
+[Maker Faire Zurich](https://www.makerfairezurich.ch/en/program/)
+
+[HOPE](http://hope.net/index.html)
 
 [Makers Faire Prague](https://prague.makerfaire.com/)
 
 [Makers Faire Berlin](https://en.maker-faire.de/berlin/)
 
-[HOPE (hopefully)](http://hope.net/index.html)
-
-# Past Events
 [34C3](https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing)
 
 [Hammer Space](https://www.meetup.com/Hammerspace-Community-Workshop-and-Makerspace/events/244874058/)
