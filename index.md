@@ -38,7 +38,7 @@
 
 [Makers Faire Berlin](https://en.maker-faire.de/berlin/)
 
-[Kit Sprint](http://wiki.sgmk-ssam.ch/wiki/KitSprint_ANORG_2018_
+[Kit Sprint](http://wiki.sgmk-ssam.ch/wiki/KitSprint_ANORG_2018_)
 
 [34C3](https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing)
 
