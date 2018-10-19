@@ -20,6 +20,8 @@
 
 [Tiny Dice](tinydice)
 
+[Word Clock](wordclock)
+
 # Upcomming Events/Tennative Events
 [35C3](https://events.ccc.de/2018/10/10/35c3-tickets-presale/)
 
@@ -35,6 +37,8 @@
 [Makers Faire Prague](https://prague.makerfaire.com/)
 
 [Makers Faire Berlin](https://en.maker-faire.de/berlin/)
+
+[Kit Sprint](http://wiki.sgmk-ssam.ch/wiki/KitSprint_ANORG_2018_
 
 [34C3](https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing)
 
