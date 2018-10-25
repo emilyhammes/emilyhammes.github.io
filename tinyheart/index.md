@@ -1,4 +1,4 @@
-# Tiny Snowflake
+# Tiny Heart
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/Tw_KlINMhWY?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
@@ -12,7 +12,7 @@ The Tiny Heart is a PCB shaped like a heart with 20 LEDs. The LEDS are intependa
   src="https://www.youtube.com/embed/Bx5GLyJSWPk?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
   
-## Soldering The Snowflake
+## Soldering The Heart
   
 ### Materials
   * 5 110 Ohm resistors
@@ -21,7 +21,7 @@ The Tiny Heart is a PCB shaped like a heart with 20 LEDs. The LEDS are intependa
   * 1 ATtiny13A
   * 3 to 5v power source (USB, batteries, etc.)
   
-### To solder the snowflake follow these steps:
+### To solder the heart follow these steps:
 <img alt="Front of Snowflake" src="snowflake_front.jpg" width="45%" /><img alt="Back of Snowflake" src="snowflake_back.jpg" width="45%" />
 
 1. Solder on all 20 LEDS paying attention to the LED orientation on the silkscreen.
