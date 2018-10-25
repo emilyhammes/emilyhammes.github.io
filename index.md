@@ -8,7 +8,7 @@
 
 [Tiny Snowflake](snowflake)
 
-[Tiny Heart]()
+[Tiny Heart](tinyheart)
 
 [Tiny Shamrock]()
 
