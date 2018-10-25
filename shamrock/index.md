@@ -1,5 +1,5 @@
 # Shamrock
-<iframe id="ytplayer" type="text/html" width="640" height="360"
+// <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/GyDOj3QPB-8?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
 
