@@ -38,7 +38,7 @@ Note: If any plastic has melted onto the Pads of the PCB, the PCB will still wor
   * 3 to 5v power source (USB, batteries, etc.)
   
 ### To solder the heart follow these steps:
-<img alt="Front of Snowflake" src="snowflake_front.jpg" width="45%" /><img alt="Back of Snowflake" src="snowflake_back.jpg" width="45%" />
+<img alt="schmatic" src="picture.jpg" width="100%" />
 
 1. Solder on all 20 LEDS paying attention to the LED orientation on the silkscreen.
 2. Solder the capacitor onto the PCB.
