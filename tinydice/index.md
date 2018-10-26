@@ -20,7 +20,7 @@ The Tiny Dice is a PCB with 14 LEDs which represent 2 dice faces. The LEDS are c
   * 1 coin cell battery
   
 ### To solder the shield follow these steps:
-<img alt="Front of Tiny Dice" src="tinydice_front.jpg" width="45%" /><img alt="Back of Tiny Dice" src="tinydice_back.jpg" width="45%" />
+<img alt="schmatic" src="picture.jpg" width="100%" />
 
 1. Solder on all 14 LEDS paying attention to the LED orientation on the silkscreen.
 2. Solder the ATtiny13A onto the PCB.
