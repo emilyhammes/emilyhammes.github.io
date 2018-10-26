@@ -22,7 +22,7 @@ The Tiny Heart is a PCB shaped like a heart with 20 LEDs. The LEDS are intependa
   * 3 to 5v power source (USB, batteries, etc.)
   
 ### To solder the heart follow these steps:
-<img alt="Front of Snowflake" src="snowflake_front.jpg" width="45%" /><img alt="Back of Snowflake" src="snowflake_back.jpg" width="45%" />
+<img alt="schmatic" src="picture.jpg" width="100%" />
 
 1. Solder on all 20 LEDS paying attention to the LED orientation on the silkscreen.
     - The LEDs are paired, so as long as all the LEDs have the same orientation (cathode down or annode down) it will not really matter.
