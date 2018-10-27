@@ -22,6 +22,12 @@
 
 [Word Clock](RGBcharlieplex)
 
+[Necklace Charger](necklacecharger)
+
+[Temperature Monitor](temperaturemonitor)
+
+[Alarm Clock](alarmclock)
+
 # Upcomming Events/Tennative Events
 [35C3](https://events.ccc.de/2018/10/10/35c3-tickets-presale/)
 
