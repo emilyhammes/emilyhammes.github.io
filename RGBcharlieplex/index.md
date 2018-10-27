@@ -14,7 +14,7 @@ Coming Soon
 # Assembly
 <img alt="PCB" src="PCB-rgbcharlieplex.jpg" width="100%" />
 
-  ## Parts List
+## Parts List
   * 1 Hammes Hacks Charlieplexed RGB Shield for Arduino Uno
   * 1 Arduino Uno
   * 1 Laser cut case
@@ -25,7 +25,7 @@ Coming Soon
   * Wood glue or white glue
   * Soldering iron
   
-  ## Soldering the Shield
+## Soldering the Shield
   1. Solder all 16 resistors onto the PCB
   2. Solder 1 pin on each LED to the board
   3. Align the LEDS so that they are streight
