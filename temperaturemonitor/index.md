@@ -15,9 +15,10 @@ The temperature monitor is a shield for an Arduino Pro Mini or a STM32 blue pill
 
 * 1 [LTC-4724WC 7 segment display](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/LTC-4724WC-Lite-On.pdf)
 * 8 220 ohm 0603 resistors
-* female pinheadders 
+* Female pinheaders 
 * PCB
 * Either a STM 32 blue pill or an Arduino Pro Mini
+* 1 Temperature sensor
 
 ## Soldering together the PCB
 
