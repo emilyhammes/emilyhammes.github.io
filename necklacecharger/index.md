@@ -16,7 +16,7 @@ One wire (male USB) contains only ground while the other wire contains the posit
   * F1 : Fuse
   * LiPo : 041230 LiPo Battery
   * Wire : USB cable
-  * Chip : [73832/2](http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf)
+  * Chip : [Microchip MCP73832/2](http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf)
   * USB micro B female connector
 
 ## Soldering
