@@ -28,3 +28,5 @@ One wire (male USB) contains only ground while the other wire contains the posit
   6. Solder the + (red) and - (black) sides of the LiPo battery to the PCB.
   7. Solder the end of the + wire to the + side of a [snowflake](http://hammeshacks.com/snowflake/), [heart](http://hammeshacks.com/tinyheart/), [dragonfly](http://hammeshacks.com/dragonfly/) or [shamrock](http://hammeshacks.com/shamrock/).
   8. Solder the black wire at the end of the USB micro B connector to the negative side of the snowflake, heart, dragonfly or shamrock. 
+  9. Confirm that the LiPo battery charges correctly and discharges correctly.
+  10. Use heat shrink tubing to protect the battery and circut.
