@@ -40,9 +40,15 @@ The shield is longer than the Arduino Pro Mini so some of the pins on the shield
 
 #### One Wire Sensors
 
+To use a one wire sensor populate the resistor in the arduino pull up part of the board, which is labled DAT. It is size 0603 and it's resistance should be given in the data sheet for the one wire sensor. This resistor connects the pins labled Vcc and 5. Connect the sensor to the pins labled Vcc, GND and 5.
+
 #### Analog Sensors
 
+To use an analog sensor (such as (TMP36)[https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/TMP35_36_37.pdf] plug the sensor into the GND, A3 and VCC pins, on the part of the board labled Arduino Sensor. 
+
 #### I2C Sensors
+
+To use I2C or related protocols (such as that used by Sensirion SHT75) populate the resistor in the arduino pull up part of the board, which is labled DAT. It is size 0603 and it's resistance should be given in the data sheet for the one wire sensor. Then connect the resistor to the pins labeled A3, Vcc, GND and 5. 
 
 ### Using the STM32 Blue Pill
 
