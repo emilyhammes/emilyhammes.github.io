@@ -30,6 +30,8 @@ The temperature monitor is a shield for an Arduino Pro Mini or a STM32 blue pill
 
 ### Using the Pro Mini 
 
+<img alt="schmatic" src="arduino.jpg" width="100%" />
+
 The shield is longer than the Arduino Pro Mini so some of the pins on the shield will not be connected to the Arduino PCB. To connect the correct pins, look at the front of the shield (the side with the 7 segment display). On the shield there is a dotted line with Arduino written in the middle of it. This is where the arduino will end. Additionally, there is an arrow with analog pins written on it. This lable notes the side where the arduino analog pins plug in.
 
 #### One Wire Sensors
@@ -39,6 +41,8 @@ The shield is longer than the Arduino Pro Mini so some of the pins on the shield
 #### I2C Sensors
 
 ### Using the STM32 Blue Pill
+
+<img alt="schmatic" src="stm32.jpg" width="100%" />
 
 The STM 32 blue pill is longer than the temperature shield so some of the blue pill's pins will not be connected to the shield. To connect it correctly, locate the 5V pin on the STM 32. Additionally, locate the pin labled 32 5V PIN on the front of the shield (the side with the 7 segment display). Plug the shield into the STM 32 so that these pins are connected. 
 
