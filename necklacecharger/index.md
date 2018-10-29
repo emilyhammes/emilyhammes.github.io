@@ -6,3 +6,14 @@ One wire (male USB) contains only ground while the other wire contains the posit
 
 # PCB Assembly
 <img alt="PCB" src="pcbimage.jpg" width="100%" />
+
+## Component List
+  * C1 : 4.7 uF
+  * D1 : 0603 LED
+  * R1 : 1k
+  * R2 : 20K
+  * C2 : 4.7uF
+  * F1 : Fuse
+  * LiPo : 041230 LiPo Battery
+  * Wire : USB cable
+  * Chip : [73832/2](http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf)
