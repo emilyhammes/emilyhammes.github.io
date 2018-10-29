@@ -9,7 +9,7 @@ The temperature monitor is a shield for an Arduino Pro Mini or a STM32 blue pill
 
 # Assembly
 
-
+<img alt="schmatic" src="tempshield.jpg" width="100%" />
 
 ## Component List
 
