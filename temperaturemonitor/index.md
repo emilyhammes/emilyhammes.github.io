@@ -7,6 +7,10 @@ The temperature monitor is a shield for an Arduino Pro Mini or a STM32 blue pill
 
 # Background
 
+How a 7-segment display works:
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZrYyVWv4Ff8?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
+
 # Assembly
 
 <img alt="schmatic" src="tempshield.jpg" width="100%" />
