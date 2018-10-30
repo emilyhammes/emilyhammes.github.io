@@ -29,7 +29,7 @@ How buttons work:
   * Arduino Pro Mini
   * PCB
   
-## Assembly
+## Soldering the Shield
 
   1. Solder the resistors onto the PCB.
   2. Solder the button onto the PCB.
