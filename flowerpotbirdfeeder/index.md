@@ -11,7 +11,7 @@
   
 ## File
 
-[Flowerpot Bird Feeder v1](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/flowerpotbirdfeeder/flowerpotv1.stl)
+[Flowerpot Bird Feeder v1](flowerpotv1.stl)
  
 # Flowerpot Bird Feeder v2
 
@@ -26,5 +26,5 @@
   
 ## File
 
- [Flowerpot Bird Feeder v2](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/flowerpotbirdfeeder/flowerpotv2.stl)
+ [Flowerpot Bird Feeder v2](flowerpotv2.stl)
  
