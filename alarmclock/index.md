@@ -1,5 +1,7 @@
 # Alarm Clock
 
+<img alt="schmatic" src="necklace.jpg" width="100%" />
+
 # Theory
 
 How 7 segment displays work:
@@ -7,6 +9,8 @@ How 7 segment displays work:
 How buttons work:
 
 # Assembly
+
+<img alt="schmatic" src="necklace.jpg" width="100%" />
 
   ## Parts List
   
