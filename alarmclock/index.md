@@ -30,6 +30,13 @@ How buttons work:
   * PCB
   
 ## Assembly
+
+  1. Solder the resistors onto the PCB.
+  2. Solder the button onto the PCB.
+  3. Solder the 7 segment display onto the PCB so that decimal places on the display are on the "by: Emily Hammes" side. 
+  4. Bend the leads to a 90 degree angle and solder the speaker onto the board.
+  5. Solder the pin headers onto the board.
+  6. Plug the board into the Arduino Pro Mini so that the program header is above the speaker on the alarm clock shield.
   
 ## Printed Case
   
