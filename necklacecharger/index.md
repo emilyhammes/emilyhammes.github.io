@@ -30,3 +30,13 @@ One wire (male USB) contains only ground while the other wire contains the posit
   8. Solder the black wire at the end of the USB micro B connector to the negative side of the snowflake, heart, dragonfly or shamrock. 
   9. Confirm that the LiPo battery charges correctly and discharges correctly.
   10. Use heat shrink tubing to protect the battery and circut.
+
+### Whats Inside the PCB?
+
+<img alt="schematic" src="schematic.jpg" width="100%" />
+
+This is the schematic of the PCB, showing how all the components are connected.
+
+<img alt="pcb" src="pcb.jpg" width="100%" />
+
+This is a transparent view of the PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 
