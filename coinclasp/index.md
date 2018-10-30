@@ -6,8 +6,10 @@
  
 ## Materials
 
-  * 3D printer with a print area that is a minimum of 
-  * Glass jar ([maille mustard](https://www.freundedesgeschmacks-shop.de/senf-saucen-gewuerze/senf/senf-nach-alter-art-628.html), [coop tomato sauce](https://www.coopathome.ch/en/supermarket/food-cupboard/pasta-warm-sauces/pesto-pasta-sauces/sugo-pelati/prix-garantie-strained-tomatoes/p/4044389) or [migros tomato sauce](https://produkte.migros.ch/longobardi-passata-di-pomodoro-153234000000))
+  * 3D printer 
+  * CR2032 battery
+  * Wire
+  * Electronic pendant such as a [snowflake](http://hammeshacks.com/snowflake/), [heart](http://hammeshacks.com/tinyheart/), [dragonfly](http://hammeshacks.com/dragonfly/) or [shamrock](http://hammeshacks.com/shamrock/).
   
 ## Files
 
