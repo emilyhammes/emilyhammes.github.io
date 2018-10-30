@@ -20,7 +20,7 @@ How buttons work:
 
 <img alt="schmatic" src="clockpcb.jpg" width="100%" />
 
-  ## Parts List
+## Parts List
   
   * LTC-2623 4 digit 7 segment display
   * 9 220 ohm resistors
@@ -29,8 +29,8 @@ How buttons work:
   * Arduino Pro Mini
   * PCB
   
-  ## Assembly
+## Assembly
   
-  ## Printed Case
+## Printed Case
   
   
