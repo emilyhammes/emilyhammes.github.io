@@ -6,7 +6,7 @@
   
 # Materials
   * 3D printer with a print area that is a minimum of 11 x 11 x 26cm
-  * zip tie
+  * Zip tie
  
 # Files
 
