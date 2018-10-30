@@ -14,21 +14,26 @@
 
 [Tiny Dragonfly](dragonfly)
 
+[Necklace Charger](necklacecharger)
+
 [Minipong](minipong)
+
+# Other Projects
 
 [Minidice](minidice)
 
 [Tiny Dice](tinydice)
 
-[Word Clock](RGBcharlieplex)
-
-[Necklace Charger](necklacecharger)
+[Alarm Clock](alarmclock)
 
 [Temperature Monitor](temperaturemonitor)
 
-[Alarm Clock](alarmclock)
+# Ongoing Projects
+
+[Word Clock](RGBcharlieplex)
 
 # Upcomming Events/Tennative Events
+
 [35C3](https://events.ccc.de/2018/10/10/35c3-tickets-presale/)
 
 [Zurich International School](https://www.zis.ch/)
@@ -36,6 +41,7 @@
 [ETH Zurich](http://www.bastli.ethz.ch/)
 
 # Past Events
+
 [Maker Faire Zurich](https://www.makerfairezurich.ch/en/program/)
 
 [HOPE](http://hope.net/index.html)
