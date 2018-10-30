@@ -38,7 +38,7 @@ How buttons work:
   5. Solder the pin headers onto the board.
   6. Plug the board into the Arduino Pro Mini so that the program header is above the speaker on the alarm clock shield.
   
-## Printed Case
+## Printed Case Files
   
   [Case](clocklid.stl)
   
