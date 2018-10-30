@@ -37,6 +37,6 @@ One wire (male USB) contains only ground while the other wire contains the posit
 
 This is the schematic of the PCB, showing how all the components are connected.
 
-<img alt="pcb" src="pcb.jpg" width="100%" />
+<img alt="pcb" src="PCB.jpg" width="100%" />
 
 This is a transparent view of the PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 
