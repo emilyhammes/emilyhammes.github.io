@@ -13,5 +13,5 @@
   
 ## Files
 
- [Flowerpot Bird Feeder v2](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/flowerpotbirdfeeder/flowerpotv2.stl)
- 
+ [Part1](coin1.stl)
+ [Part2](coin2.stl)
