@@ -40,7 +40,7 @@
 
 [Word Clock](RGBcharlieplex)
 
-[GPS Robot](GPSrobot)
+[GPS Robot]()
 
 # Upcomming Events/Tennative Events
 
