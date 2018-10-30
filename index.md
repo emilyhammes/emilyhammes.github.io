@@ -34,6 +34,8 @@
 
 [Roller Shutter Bird Feeder](rollershutterbirdfeeder)
 
+[Coin Cell Necklace Clasp](coinclasp)
+
 # Ongoing Projects
 
 [Word Clock](RGBcharlieplex)
