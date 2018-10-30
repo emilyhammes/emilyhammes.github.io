@@ -40,6 +40,8 @@
 
 [Word Clock](RGBcharlieplex)
 
+[GPS Robot](GPSrobot)
+
 # Upcomming Events/Tennative Events
 
 [35C3](https://events.ccc.de/2018/10/10/35c3-tickets-presale/)
