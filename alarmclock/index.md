@@ -40,6 +40,6 @@ How buttons work:
   
 ## Printed Case
   
-  (Case)[clocklid.stl]
+  [Case](clocklid.stl)
   
-  (Lid)[clocklid.stl]
+  [Lid](clocklid.stl)
