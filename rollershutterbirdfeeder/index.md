@@ -10,5 +10,5 @@
  
 # Files
 
-* [Body](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/rollershutterbirdfeeder/rollershutterbody.stl)
-* [Lid](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/rollershutterbirdfeeder/rollershutterlid.stl)
+* [Body](rollershutterbody.stl)
+* [Lid](rollershutterlid.stl)
