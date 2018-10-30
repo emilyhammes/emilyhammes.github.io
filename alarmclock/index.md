@@ -6,7 +6,15 @@
 
 How 7 segment displays work:
 
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/ZrYyVWv4Ff8?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0" allowfullscreen></iframe>
+
 How buttons work:
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/C5elus14muQ?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0" allowfullscreen></iframe>
 
 # Assembly
 
