@@ -28,6 +28,12 @@
 
 [Temperature Monitor](temperaturemonitor)
 
+# 3D Printing Projects
+
+[Flowerpot Bird Feeder](flowerpotbirdfeeder)
+
+[Roller Shutter Bird Feeder](rollershutterbirdfeeder)
+
 # Ongoing Projects
 
 [Word Clock](RGBcharlieplex)
