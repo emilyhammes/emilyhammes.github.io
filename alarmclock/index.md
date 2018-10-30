@@ -1,6 +1,6 @@
 # Alarm Clock
 
-<img alt="schmatic" src="necklace.jpg" width="100%" />
+<img alt="schmatic" src="clock.jpg" width="100%" />
 
 # Theory
 
@@ -18,7 +18,7 @@ How buttons work:
 
 # Assembly
 
-<img alt="schmatic" src="necklace.jpg" width="100%" />
+<img alt="schmatic" src="clockpcb.jpg" width="100%" />
 
   ## Parts List
   
