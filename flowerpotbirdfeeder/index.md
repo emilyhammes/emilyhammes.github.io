@@ -27,3 +27,4 @@
 ## File
 
  [Flowerpot Bird Feeder v2](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/flowerpotbirdfeeder/flowerpotv2.stl)
+ https://github.com/emilyhammes/emilyhammes.github.io/blob/master/flowerpotbirdfeeder/flowerpotv2.stl
