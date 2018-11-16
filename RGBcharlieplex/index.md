@@ -9,7 +9,7 @@ The basics of charlieplexing--which is the method I am using to individually con
 
 Charlieplexing with Red Green and Blue (RGB) LEDs adds another level of complexity to the process. More information can be found in this video :
 
-Coming Soon
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/watch?v=ygxtIm40hYQ?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe> 
 
 # Assembly
 <img alt="PCB" src="PCB-rgbcharlieplex.jpg" width="100%" />
