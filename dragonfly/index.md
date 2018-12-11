@@ -63,5 +63,5 @@ This is a transparent view of the PCB. Green lines are wires on one side and red
 
 ### Where to Buy?
 
-At events
-On [Tindie] (https://www.tindie.com/stores/HammesHacks/)
+* At events
+* On [Tindie](https://www.tindie.com/stores/HammesHacks/)
