@@ -5,7 +5,7 @@
 
 
 ## Introduction
-The Dragonfly is a PCB-Celtic knot shaped like a dragonfly with 20 LEDs. The LEDs are intependantly controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatable. It comes pre-programmed in the kit.
+The Dragonfly is a PCB-Celtic knot shaped like a dragonfly with 20 LEDs. The LEDs are independently controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not Arduino compatible. It comes pre-programmed in the kit.
 
 ## Theory
 <iframe id="ytplayer" type="text/html" width="640" height="360"
