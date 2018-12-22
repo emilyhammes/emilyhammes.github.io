@@ -2,6 +2,8 @@
 
 [Intro to Arduino Shield](intro)
 
+[Recharge](recharge)
+
 [8x7 Charlieplexed LED Shield](8x7charlieplexed)
 
 [Multiplexed RGB Shield](rgbmatrix)
