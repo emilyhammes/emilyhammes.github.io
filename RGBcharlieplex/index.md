@@ -24,6 +24,7 @@ Charlieplexing with Red Green and Blue (RGB) LEDs adds another level of complexi
   * 1 Laser cut case
   * 16 110 ohm resistors
   * 80 common cathode RGB LEDs
+  * 1 button
   * Pin headders
   * USB cable
   * Wood glue or white glue
@@ -34,7 +35,7 @@ Charlieplexing with Red Green and Blue (RGB) LEDs adds another level of complexi
   2. Solder 1 pin on each LED to the board
   3. Align the LEDS so that they are streight
   4. Solder all other pins on the LEDS
-  5. Using a bright light shine light through the PCB to visually check all the solder joints on the LEDs for shorts. To do this, place the plastic part of the LED toward the light and look at each solder joint. Each LEDs solder joints should look like a rectangle, next to three ovals. If you can see light through the oval or the rectangle then add a little solder to that joint. If two of the joints are shorted (soldered together) then remove a little solder until the solderjoints are distinct. 
+  5. Using a bright light shine light through the PCB to visually check all the solder joints on the LEDs for shorts. To do this, place the plastic part of the LED toward the light and look at each solder joint. Each LEDs solder joints should look like a rectangle, next to three ovals. If you can see light through the oval or the rectangle then add a little solder to that joint. If two of the joints are shorted (soldered together) then remove a little solder until the solderjoints are distinct. This is a time consuming process. 
   6. (optional) add button/wires/switch for timesetting
   7. Add pin headders
   
