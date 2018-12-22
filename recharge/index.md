@@ -11,7 +11,6 @@ The kit uses a set of charlieplexed LEDs and a button to controll them. Pressing
 For more information on how charlieplexing works:
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/Bx5GLyJSWPk?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
-The dice pairs are related in the following way:
 
 For more information on how buttons work:
 
