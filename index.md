@@ -18,11 +18,13 @@
 
 [Minipong](minipong)
 
+[Word Clock](RGBcharlieplex)
+
+[Tiny Dice](tinydice)
+
 # Other Projects
 
 [Minidice](minidice)
-
-[Tiny Dice](tinydice)
 
 [Alarm Clock](alarmclock)
 
@@ -38,15 +40,11 @@
 
 # Ongoing Projects
 
-[Word Clock](RGBcharlieplex)
-
 [GPS Robot]()
 
 # Upcomming Events/Tennative Events
 
 [35C3](https://events.ccc.de/2018/10/10/35c3-tickets-presale/)
-
-[Zurich International School](https://www.zis.ch/)
 
 [ETH Zurich](http://www.bastli.ethz.ch/)
 
