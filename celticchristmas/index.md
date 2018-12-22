@@ -29,8 +29,9 @@ For more information on charlieplexing watch this video:
 	* The lower 5 balls get resistors,
 	* The horizontal pad pairs get LEDs
 	* The vertical pad pairs get the other color of LEDs.
+	* The bow has a capacitor on it
 	* For the titled pads look at the figure
-  	* The bow has a capacitor on it
+  	
 	
 3. Solder the 0603 components on other side of each PCB
 4. If you want to add a star to the tree, solder the two top resistors on one of the 5x10 cm triangles. This will make one side of the PCB + and the other - on this PCB. DO NOT DO THIS FOR ALL ARMS BECAUSE YOU WILL DRAMATICALY INCREASE THE POWER CONSUMPTION OF THE KIT.
