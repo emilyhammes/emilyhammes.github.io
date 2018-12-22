@@ -4,6 +4,8 @@
 
 [Recharge](recharge)
 
+[Celtic Christmas](celticchristmas)
+
 [You Turn Me On](turnon)
 
 [8x7 Charlieplexed LED Shield](8x7charlieplexed)
