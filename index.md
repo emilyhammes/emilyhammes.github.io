@@ -14,8 +14,6 @@
 
 [Tiny Dragonfly](dragonfly)
 
-[Necklace Charger](necklacecharger)
-
 [Minipong](minipong)
 
 [Word Clock](RGBcharlieplex)
@@ -41,6 +39,8 @@
 # Ongoing Projects
 
 [GPS Robot]()
+
+[Necklace Charger](necklacecharger)
 
 # Upcomming Events/Tennative Events
 
