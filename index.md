@@ -53,7 +53,7 @@
 
 # Upcomming Events/Tennative Events
 
-[35C3](https://events.ccc.de/2018/10/10/35c3-tickets-presale/)
+[35C3](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area#Calendar)
 
 [ETH Zurich](http://www.bastli.ethz.ch/)
 
