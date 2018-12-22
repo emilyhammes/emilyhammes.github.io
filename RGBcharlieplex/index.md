@@ -8,7 +8,7 @@ The word clock is a clock where the time is spelled out in five minute incriment
 The basics of charlieplexing--which is the method I am using to individually control each LED--is found in this video: 
 
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/Bx5GLyJSWPk&t?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/Bx5GLyJSWPk?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 Charlieplexing with Red Green and Blue (RGB) LEDs adds another level of complexity to the process. More information can be found in this video :
 
