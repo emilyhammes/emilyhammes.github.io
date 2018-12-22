@@ -1,5 +1,5 @@
 # Shop Hours at 35C3
-[Shop Hours](shop)
+[Shop Hours](Shop)
 
 # Directions for Soldering Kits
 
