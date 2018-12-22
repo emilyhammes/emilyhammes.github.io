@@ -11,6 +11,8 @@ Each of the 4 PCBs contain the same circut. Actually, it is the same circut and 
 
 For more information on charlieplexing watch this video:
 
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/Bx5GLyJSWPk?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
+
 ## Assembly:
 ### Materials:
 * 80 0603 LEDs: 32 of one color, 48 in another.
