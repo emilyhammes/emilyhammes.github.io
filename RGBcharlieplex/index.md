@@ -51,12 +51,13 @@ Charlieplexing with Red Green and Blue (RGB) LEDs adds another level of complexi
   Additionally, it is often helpful to hold the box together with rubbber bands while it is drying. 
 
 # Uploading Code
-Once you are done soldering, it is time to upload code. 
+Once you are done soldering, it is time to upload the test code. Play with the delays to check each LED.
 
 ## Debugging
   Before uploading the word clock code, it is best to upload the test code. This code will make one pin high and another low so that only 1 LED will light up either red, green or blue at a given time. Most likely, even though we optically checked for shorts, there will still be one on the board. To repair them do the following:
   * If multiple LEDs do not light up, check the resistors. When a resistor is not soldered, then all the LEDs connected to that pin will not work. 
   * If 2 LEDs are lighting up at the same time, two pins are shorted somewhere. Look for the LED that does not light up, that is probabily where the short is. For example, a short between red and ground on LED 32 is a short between pin 6 and 3. This will cause LED 21 to not light up green. It will also cause many diodes pairs such as 1 and 17 (both red), and 3 and 19 (green and red respectively) to be on at the same time.
+  * If you remove all the delays in the test code, all the LEDs should light up a white-ish color.
   
 ## Uploading Final Code
 Once the shield is debugged, upload the word clock code.
