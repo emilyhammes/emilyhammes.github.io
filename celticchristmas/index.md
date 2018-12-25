@@ -41,7 +41,7 @@ For more information on charlieplexing watch this video:
 
 ## Whats Inside the PCB?
 
-<img alt="schmatic" src="schmatic.jpg" width="100%" />
+<img alt="schmatic" src="schematic.jpg" width="100%" />
 
 This is the schematic of the PCB, showing how all the components are connected.
 
