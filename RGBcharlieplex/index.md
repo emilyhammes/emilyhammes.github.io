@@ -16,7 +16,8 @@ Charlieplexing with Red Green and Blue (RGB) LEDs adds another level of complexi
 
 
 # Assembly
-<img alt="PCB" src="PCB-rgbcharlieplex.jpg" width="100%" />
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/zUjiLyxf8_E?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 ## Parts List
   * 1 Hammes Hacks Charlieplexed RGB Shield for Arduino Uno
@@ -31,6 +32,9 @@ Charlieplexing with Red Green and Blue (RGB) LEDs adds another level of complexi
   * Soldering iron
   
 ## Soldering the Shield
+
+<img alt="PCB" src="PCB-rgbcharlieplex.jpg" width="100%" />
+
   1. Solder all 16 resistors onto the PCB
   2. Solder 1 pin on each LED to the board
   3. Align the LEDS so that they are streight
