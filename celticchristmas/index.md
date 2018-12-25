@@ -38,3 +38,13 @@ For more information on charlieplexing watch this video:
 6. Solder the power cable
 7. Soler the PCBs at right angles to eachother so that you have a tree. 
 8. Turn the tree on and make sure that power and ground have a very high resistance. If they do, this is because you soldered all the resistors for the star and not just one set. 
+
+## Whats Inside the PCB?
+
+<img alt="schmatic" src="schmatic.jpg" width="100%" />
+
+This is the schematic of the PCB, showing how all the components are connected.
+
+<img alt="PCB" src="multi.jpg" width="100%" />
+
+Above is a transparent view of the PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 
