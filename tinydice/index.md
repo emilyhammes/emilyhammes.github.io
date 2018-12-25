@@ -47,4 +47,15 @@ The button uses a pull up resistor:
 ## Uploading Code 
 * Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/snowflake-firmware).
 
+### Whats Inside the PCB?
+
+<img alt="schmatic" src="schmatic.jpg" width="100%" />
+
+This is the schematic of the PCB, showing how all the components are connected.
+
+<img alt="PCB" src="pcb-front.jpg" width="45%" /><img alt="PCB" src="pcb-back.jpg" width="45%" />
+
+
+Above left is a transparent view of the front of the PCB. Above right is the back of the PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 
+
 
