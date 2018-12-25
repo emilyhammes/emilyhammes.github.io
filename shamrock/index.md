@@ -13,6 +13,10 @@ The Shamrock is a PCB-Celtic knot shaped like a shamrock with 20 LEDs. The LEDs 
   frameborder="0" allowfullscreen></iframe>
   
 ## Embedding Plastic
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/kOk-2FF_amk?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0" allowfullscreen></iframe>
+
 Embedding plastic makes the PCBs to look like stained glass windows during the day. It is pretty, but I have not managed to find a flame retardant plastic source. This makes the plastic not suitable for electronics use. Therefore, I have not included plastic in the kits. However, given that I am living in a country where people put actual candels on actual pine trees at Christmas, I am not really worried about adding another fire hazard to my tree. I am including these directions so that you can create this fire hazard at your own risk.
   
 ### Materials
