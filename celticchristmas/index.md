@@ -14,6 +14,9 @@ For more information on charlieplexing watch this video:
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/Bx5GLyJSWPk?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 ## Assembly:
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/SsWLh_3IS_c?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
+
 ### Materials:
 * 80 0603 LEDs: 32 of one color, 48 in another.
 * 20 0603 110 ohm resistors
