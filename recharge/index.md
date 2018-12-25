@@ -39,3 +39,15 @@ For more information on how buttons work:
 ## Uploading Code
 
 Code comes preuploaded in the kit.
+
+### Whats Inside the PCB?
+
+<img alt="schmatic" src="eeschema.jpg" width="100%" />
+
+This is the schematic of the PCB, showing how all the components are connected.
+
+<img alt="PCB" src="pcb.jpg" width="100%" />
+
+
+Above left is a transparent view of the 5mm LED PCB. Above right is a view of the 3mm LED PCB. Green lines are wires on one side and red lines are wires on the other side of the PCB. The text that will be printed on the board is in magenta on one side and teal on the other. The yellow line is the edge of the board. The gold circles are drilled through the board and have copper on both sides. 
+
