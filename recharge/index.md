@@ -40,7 +40,7 @@ For more information on how buttons work:
 
 Code comes preuploaded in the kit.
 
-### Whats Inside the PCB?
+## Whats Inside the PCB?
 
 <img alt="schmatic" src="eeschema.jpg" width="100%" />
 
