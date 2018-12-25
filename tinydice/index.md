@@ -43,8 +43,8 @@ The button uses a pull up resistor:
 4. Solder the battery holder onto the PCB.
 5. Solder the ATtiny13A onto the PCB.
 6. Solder the button onto the PCB.
-7. (optional) Solder the pin headers onto the PCB.
   
-### Uploading Code 
+## Uploading Code 
 * Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/snowflake-firmware).
+
 
