@@ -14,6 +14,10 @@ The Tiny Heart is a PCB shaped like a heart with 20 LEDs. The LEDS are intependa
   
 ## Soldering The Heart
   
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/i0RA_xeNDMs?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0" allowfullscreen></iframe>
+  
 ### Materials
   * 5 110 Ohm resistors
   * 1 0.1 uF capacitor
