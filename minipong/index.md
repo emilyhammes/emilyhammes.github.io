@@ -1,4 +1,10 @@
 # Minipong
+
+## Note:
+The code that is currently online is for an Arduino Pro Micro not an Ardino Pro Mini. It does not work with the 35C3 kit, because the pin numbers will need to be changed. I will upload a Pro Mini version in the next few days. 
+
+
+
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/zE6a-TzRJhY?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
