@@ -1,35 +1,5 @@
 # Minipong
 
-## Note:
-The code that is currently online is for an Arduino Pro Micro not an Ardino Pro Mini. It does not work with the 35C3 kit, because the pin numbers will need to be changed. I will upload a Pro Mini version in the next few days. 
-
-I just tested it. Change the lines at the top of the Pro Micro Code so that they are:
-
- //for simplicity the pins are given variable names so that it is easier to understand which light should turn on.
-const int col1 = 9 ; //column 1 is on pin 1...this is 1 in the data sheet
-
-const int col2 = 7 ; //column 2 is on pin 3
-
-const int col3 = 14; //column 3 is on pin 10
-
-const int col4 = 19 ; //column 4 is on pin 7
-
-const int col5 = 18; //column 5 is on pin 8
-
-const int row1 = 10 ; //row 1 is on pin 12
-
-const int row2 = 16 ; //row 1 is on pin 11
-
-const int row3 = 8 ; //row 1 is on pin 2
-
-const int row4 = 15 ; //row 1 is on pin 9
-
-const int row5 = 6 ; //row 1 is on pin 4
-
-const int row6 = 5 ; //row 1 is on pin 5
-
-const int row7 = 4 ; //row 1 is on pin 6
-
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/zE6a-TzRJhY?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
@@ -74,7 +44,7 @@ Lets start with the theory for a single color multiplexed matrix:
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Uno under Tools > Baord in the Arduino software
 * Select the correct comport under Tools > Port in the Arduino software
-* Download the code [from github](https://github.com/emilyhammes/minipong-promicro/archive/master.zip) and upload it to the Arduino.
+* Download the code [from github](https://github.com/emilyhammes/minipong-firmware/archive/master.zip) and upload it to the Arduino.
 
 ### Whats Inside the PCB?
 
