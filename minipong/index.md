@@ -7,16 +7,27 @@ I just tested it. Change the lines at the top of the Pro Micro Code so that they
 
  //for simplicity the pins are given variable names so that it is easier to understand which light should turn on.
 const int col1 = 9 ; //column 1 is on pin 1...this is 1 in the data sheet
+
 const int col2 = 7 ; //column 2 is on pin 3
+
 const int col3 = 14; //column 3 is on pin 10
+
 const int col4 = 19 ; //column 4 is on pin 7
+
 const int col5 = 18; //column 5 is on pin 8
+
 const int row1 = 10 ; //row 1 is on pin 12
+
 const int row2 = 16 ; //row 1 is on pin 11
+
 const int row3 = 8 ; //row 1 is on pin 2
+
 const int row4 = 15 ; //row 1 is on pin 9
+
 const int row5 = 6 ; //row 1 is on pin 4
+
 const int row6 = 5 ; //row 1 is on pin 5
+
 const int row7 = 4 ; //row 1 is on pin 6
 
 <iframe id="ytplayer" type="text/html" width="640" height="360"
