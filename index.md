@@ -1,6 +1,3 @@
-# Shop Hours at 35C3
-[Shop Hours](Shop)
-
 # Directions for Soldering Kits
 
 [Intro to Arduino Shield](intro)
