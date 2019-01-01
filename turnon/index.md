@@ -1,4 +1,6 @@
 # You Turn Me On
+## NOTE:
+At 35C3 the wrong code was uploaded to the microcontroller. If you bought one of these kits please email me at hammeshacks@gmail.com and I will send you a replacement. 
 
 ## Inspiration
 At 34C3 I taught a workshop on soldering and programming arduino shields. Many of my students were in relationships with electrical engineers or computer programmers. After the class, many boyfriends and girlfriends of my students were very excited. They came up to me and said, "I have been trying to get my girlfriend to program for years, and last night she spent all night shopping on Aliexpress and adafruit." This kit reminds me of their happyness. 
