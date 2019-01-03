@@ -1,7 +1,7 @@
 # Celtic Christmas
 
 ## Inspiration
-I have a tiny appartment and it needed a matching christmas tree. 
+I have a tiny apartment and it needed a matching Christmas tree. 
 
 ## Introduction
 The Celtic Christmas kit is 4 PCBs built on a single board which break appart and are soldered into a 3D celtic knot shapped like a christmas tree. 
