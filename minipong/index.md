@@ -1,4 +1,5 @@
 # Minipong
+
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/zE6a-TzRJhY?autoplay=0&origin=http://hammeshacks.com"
   frameborder="0" allowfullscreen></iframe>
@@ -43,7 +44,7 @@ Lets start with the theory for a single color multiplexed matrix:
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
 * Select Arduino Uno under Tools > Baord in the Arduino software
 * Select the correct comport under Tools > Port in the Arduino software
-* Download the code [from github](https://github.com/emilyhammes/minipong-promicro/archive/master.zip) and upload it to the Arduino.
+* Download the code [from github](https://github.com/emilyhammes/minipong-firmware/archive/master.zip) and upload it to the Arduino.
 
 ### Whats Inside the PCB?
 
