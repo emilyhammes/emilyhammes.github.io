@@ -45,7 +45,7 @@ The button uses a pull up resistor:
 6. Solder the button onto the PCB.
   
 ## Uploading Code 
-* Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/snowflake-firmware).
+* Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/tinydice-firmware).
 
 ### Whats Inside the PCB?
 
