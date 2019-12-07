@@ -22,15 +22,16 @@ It can be powered in a few ways:
 The board can power the LED using 3 Different sets of pads:
 
 ### The Coin Cell Pads:
-    If you power the LED using the Coin Cell pads, the battery connects directly to the LED. No resistors are needed. 
+
+If you power the LED using the Coin Cell pads, the battery connects directly to the LED. No resistors are needed. 
 
 ### The Pin Header Pads:
-    If you power the LED using the pin header pads, you also need to add a resistor to close the circuit with the LED. The resistors are in parallel, the smallest is an 0603, the bigger small one is an 0805 and the last is for a through hole resistor. Because the resistors are in parallel, you only need to solder 1 to the board. 
+If you power the LED using the pin header pads, you also need to add a resistor to close the circuit with the LED. The resistors are in parallel, the smallest is an 0603, the bigger small one is an 0805 and the last is for a through hole resistor. Because the resistors are in parallel, you only need to solder 1 to the board. 
 
 ### The Necklace Pads:    
-    One of the necklace pads is always connected to ground. The other pad can optionally be connected to the positive side of a battery. If you want to power the 36C3 Hardware Hacker over the necklace wires you need to connect the left pad to the positive side of the battery/voltage source. To do this, you connect the jumper by placing a blob of solder on both of the pads, so that they are bridged. You also need to populate one of the resistors to close the circuit. 
+One of the necklace pads is always connected to ground. The other pad can optionally be connected to the positive side of a battery. If you want to power the 36C3 Hardware Hacker over the necklace wires you need to connect the left pad to the positive side of the battery/voltage source. To do this, you connect the jumper by placing a blob of solder on both of the pads, so that they are bridged. You also need to populate one of the resistors to close the circuit. 
 
-    Note: if you want to power the board using the pin header pads or the coin cell pads and wear it as a necklace, just do not short the jumper and solder a wire between the two necklace pads. 
+Note: if you want to power the board using the pin header pads or the coin cell pads and wear it as a necklace, just do not short the jumper and solder a wire between the two necklace pads. 
 
 ## Selected Assembly Variants:
 
