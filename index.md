@@ -1,5 +1,7 @@
 # Directions for Soldering Kits
 
+[36C3 Hardware Hacker](36C3hardwarehacker)
+
 [Intro to Arduino Shield](intro)
 
 [Recharge](recharge)
