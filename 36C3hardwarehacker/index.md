@@ -1,5 +1,7 @@
 # 36C3 Hardware Hacker
 
+<img alt="PCB" src="36C3BADGE_front.jpg" width="100%" />
+
 ## Inspiration
 I wanted an I can solder badge that could be used in multiple ways. 
 
@@ -34,6 +36,7 @@ One of the necklace pads is always connected to ground. The other pad can option
 Note: if you want to power the board using the pin header pads or the coin cell pads and wear it as a necklace, just do not short the jumper and solder a wire between the two necklace pads. 
 
 ## Selected Assembly Variants:
+<img alt="PCB" src="36C3BADGE_back.jpg" width="100%" />
 
 ### Key Chain:
 
