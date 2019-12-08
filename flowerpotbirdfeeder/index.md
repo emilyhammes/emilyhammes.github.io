@@ -1,4 +1,4 @@
-# Fowerpot Bird Feeder v1
+# Flowerpot Bird Feeder v1
 
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/nnGN2VoQitw?autoplay=0&origin=http://hammeshacks.com"

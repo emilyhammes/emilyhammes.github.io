@@ -52,11 +52,10 @@
 
 # Upcomming Events/Tennative Events
 
-[35C3](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area#Calendar)
-
-[ETH Zurich](http://www.bastli.ethz.ch/)
+[36C3](https://events.ccc.de/congress/2019/wiki/index.php/Assembly:Hardware_Hacking_Area)
 
 # Past Events
+[35C3](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area#Calendar)
 
 [Maker Faire Zurich](https://www.makerfairezurich.ch/en/program/)
 

@@ -3,7 +3,7 @@
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/LqRSSkQW6FU?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 # Introduction
-The temperature monitor is a shield for an Arduino Pro Mini or a STM32 blue pill. It can read and display information from either an analog or a digital temperatuer sensor. 
+The temperature monitor is a shield for an Arduino Pro Mini or a STM32 blue pill. It can read and display information from either an analog or a digital temperature sensor. 
 
 # Background
 
@@ -19,7 +19,7 @@ How a 7-segment display works:
 
 * 1 [LTC-4724WC 7 segment display](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/LTC-4724WC-Lite-On.pdf)
 * 8 220 ohm 0603 resistors
-* Female pinheaders 
+* Female pin headers 
 * PCB
 * Either a STM 32 blue pill or an Arduino Pro Mini
 * 1 Temperature sensor
@@ -27,28 +27,28 @@ How a 7-segment display works:
 ## Soldering together the PCB
 
 1. Solder the 220 ohm resistors onto R1, R2, R3, R4, R8, R9, R10 and R12.
-2. Solder the female pinheadders onto the board and trim the leads.
+2. Solder the female pin headders onto the board and trim the leads.
 3. Solder the 7 segment display onto the board.
 
-## Pluging In A Sensor and Uploading Code
+## Plugging In A Sensor and Uploading Code
 
 ### Using the Pro Mini 
 
 <img alt="schmatic" src="arduino.jpg" width="100%" />
 
-The shield is longer than the Arduino Pro Mini so some of the pins on the shield will not be connected to the Arduino PCB. To connect the correct pins, look at the front of the shield (the side with the 7 segment display). On the shield there is a dotted line with Arduino written in the middle of it. This is where the arduino will end. Additionally, there is an arrow with analog pins written on it. This lable notes the side where the arduino analog pins plug in.
+The shield is longer than the Arduino Pro Mini so some of the pins on the shield will not be connected to the Arduino PCB. To connect the correct pins, look at the front of the shield (the side with the 7 segment display). On the shield there is a dotted line with Arduino written in the middle of it. This is where the arduino will end. Additionally, there is an arrow with analog pins written on it. This label notes the side where the arduino analog pins plug in.
 
 #### One Wire Sensors
 
-To use a one wire sensor such as the [DS18B20](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/DS18B20.pdf)sensor populate the resistor in the arduino pull up part of the board, which is labled DAT. It is size 0603 and it's resistance should be given in the data sheet for the one wire sensor. This resistor connects the pins labled Vcc and 5. Connect the sensor to the pins labled Vcc, GND and 5.
+To use a one wire sensor such as the [DS18B20](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/DS18B20.pdf)sensor populate the resistor in the arduino pull up part of the board, which is labeled DAT. It is size 0603 and it's resistance should be given in the data sheet for the one wire sensor. This resistor connects the pins labeled Vcc and 5. Connect the sensor to the pins labeled Vcc, GND and 5.
 
 #### Analog Sensors
 
-To use an analog sensor (such as [TMP36](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/TMP35_36_37.pdf) plug the sensor into the GND, A3 and VCC pins, on the part of the board labled Arduino Sensor. 
+To use an analog sensor (such as [TMP36](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/TMP35_36_37.pdf) plug the sensor into the GND, A3 and VCC pins, on the part of the board labeled Arduino Sensor. 
 
 #### I2C Sensors
 
-To use I2C or related protocols (such as that used by Sensirion [SHT75](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/Sensirion_Humidity_Sensors_SHT7x_Datasheet.pdf)) populate the resistor in the arduino pull up part of the board, which is labled DAT. It is size 0603 and it's resistance should be given in the data sheet for the sensor. This resistor connects the pins labled Vcc and 5. Plug the sensor into pins A3, Vcc, GND and 5. 
+To use I2C or related protocols (such as that used by Sensirion [SHT75](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/Sensirion_Humidity_Sensors_SHT7x_Datasheet.pdf)) populate the resistor in the arduino pull up part of the board, which is labeled DAT. It is size 0603 and it's resistance should be given in the data sheet for the sensor. This resistor connects the pins labeled Vcc and 5. Plug the sensor into pins A3, Vcc, GND and 5. 
 
 * Note: SHT75 does not use I2C, it uses a very similar protocol. These protocols are close enough that you might get data that looks ok but very course. 
 
@@ -56,18 +56,18 @@ To use I2C or related protocols (such as that used by Sensirion [SHT75](https://
 
 <img alt="schmatic" src="stm32.jpg" width="100%" />
 
-The STM 32 blue pill is longer than the temperature shield so some of the blue pill's pins will not be connected to the shield. To connect it correctly, locate the 5V pin on the STM 32. Additionally, locate the pin labled 32 5V PIN on the front of the shield (the side with the 7 segment display). Plug the shield into the STM 32 so that these pins are connected. 
+The STM 32 blue pill is longer than the temperature shield so some of the blue pill's pins will not be connected to the shield. To connect it correctly, locate the 5V pin on the STM 32. Additionally, locate the pin labeled 32 5V PIN on the front of the shield (the side with the 7 segment display). Plug the shield into the STM 32 so that these pins are connected. 
 
 #### One Wire Sensors
 
-To use a one wire sensor such as the [DS18B20](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/DS18B20.pdf) sensor populate the resistor in the 32 sensor side pull up part of the board, which is labled DAT. It is size 0603 and it's resistance should be given in the data sheet for the one wire sensor. This resistor connects the pins labled 3.3V and B4. Connect the sensor to the pins labled 3.3V, GND and B4.
+To use a one wire sensor such as the [DS18B20](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/DS18B20.pdf) sensor populate the resistor in the 32 sensor side pull up part of the board, which is labeled DAT. It is size 0603 and it's resistance should be given in the data sheet for the one wire sensor. This resistor connects the pins labeled 3.3V and B4. Connect the sensor to the pins labled 3.3V, GND and B4.
 
 #### Analog Sensors
 
-To use an analog sensor (such as [TMP36](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/TMP35_36_37.pdf) plug the sensor into the GND, A7 and 3.3V pins, on the part of the board labled 32 sensor. 
+To use an analog sensor (such as [TMP36](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/TMP35_36_37.pdf) plug the sensor into the GND, A7 and 3.3V pins, on the part of the board labeled 32 sensor. 
 
 #### I2C Sensors
 
-To use I2C or related protocols (such as that used by Sensirion [SHT75](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/Sensirion_Humidity_Sensors_SHT7x_Datasheet.pdf)) populate the resistor in the 32 sensor pull up part of the board, which is labled DAT. It is size 0603 and it's resistance should be given in the data sheet for the sensor. This resistor connects the pins labled 3.3V and B4. The sensor will plug into the pins labled A7, 3.3V, GND and B4. 
+To use I2C or related protocols (such as that used by Sensirion [SHT75](https://github.com/emilyhammes/emilyhammes.github.io/blob/master/temperaturemonitor/Sensirion_Humidity_Sensors_SHT7x_Datasheet.pdf)) populate the resistor in the 32 sensor pull up part of the board, which is labeled DAT. It is size 0603 and it's resistance should be given in the data sheet for the sensor. This resistor connects the pins labeled 3.3V and B4. The sensor will plug into the pins labeled A7, 3.3V, GND and B4. 
 
 * Note: SHT75 does not use I2C, it uses a very similar protocol. These protocols are close enough that you might get data that looks ok but very course. 
