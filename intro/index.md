@@ -3,10 +3,10 @@
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/videoseries?list=PLOODSiZqm-6Vm45pemXBhKMmCtVTKruHo&autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 ## How to Register
-Buy a kit from me at 35C3 during my [store hours](http://hammeshacks.com/Shop/). Put your name on the register for the day you want. Come to the class.
+Buy a kit from me at 36C3 during my [store hours](http://hammeshacks.com/Shop/). Put your name on the register for the day you want. Come to the class.
 
 ## Introduction
-The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input. 
+The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digital or an analog output, the button is a digital input and the sensor is an analog input. 
 
 ## Theory
 ### How Arduino Code is Organized
@@ -19,25 +19,25 @@ void setup () {
 ... 
 }
 ```
-where the elipsis is replaced by any commands which is only run once at the begining of the program. For example, if you wanted a red light to turn on whenever the device is powered then you would tell the light to turn on in this section. 
+where the ellipsis is replaced by any commands which is only run once at the beginning of the program. For example, if you wanted a red light to turn on whenever the device is powered then you would tell the light to turn on in this section. 
 4. Last, there is a loop function. This looks like: 
 ``` C
 void loop () {
 ...
 }
 ```
-where the elipsis is replaced by code which is run in a loop forever, this is known as an infinite loop. For example, lets say that you wanted to change what the red light was doing when the device was powered: instead of being on, you now want it to blink. To do that you would need to tell the light to turn on in this section and then wait for some time and turn off and wait for more time. After waiting, the loop would run out of instructions and would start over at the begining ... the light would turn back on... time would pass... the light would turn off.... forever (or until the battery died).
+where the ellipsis is replaced by code which is run in a loop forever, this is known as an infinite loop. For example, lets say that you wanted to change what the red light was doing when the device was powered: instead of being on, you now want it to blink. To do that you would need to tell the light to turn on in this section and then wait for some time and turn off and wait for more time. After waiting, the loop would run out of instructions and would start over at the beginning ... the light would turn back on... time would pass... the light would turn off.... forever (or until the battery died).
 
 Note: to see the difference between setup and loop compare the code in redOn to redBlink.
 ### Digital Output
 Digital outputs allow us to tell a pin to be high or low. High is sometimes called 1 and low is sometimes written as 0. In the Intro to Arduino shield, we use digital outputs to turn on or blink lights, act as a power source or act as a ground pin. 
 To set a pin as digital somewhere in the code we need to write `pinMode (redLED, OUTPUT);` and then `digitalWrite(redLED, LOW/HIGH/0/1);`,  where redLED could be a pin number or a variable name we defined previously. 
 ### Analog Output
-If digitial outputs are like an on off switch, analog outputs are like dimmers. They work by switching a pin between high and low much faster than you can see. The ratio of on to off is defined by a number between 0 and 255, 0 being low all the time and 255 being high all the time. Just like with digital outputs, we need to write `pinMode (redLED, OUTPUT);` however, next we need to write  `analogWrite(redLED, 0-255);` where 0-255 is any number in that range. 
+If digital outputs are like an on off switch, analog outputs are like dimmers. They work by switching a pin between high and low much faster than you can see. The ratio of on to off is defined by a number between 0 and 255, 0 being low all the time and 255 being high all the time. Just like with digital outputs, we need to write `pinMode (redLED, OUTPUT);` however, next we need to write  `analogWrite(redLED, 0-255);` where 0-255 is any number in that range. 
 ### Digital Input
-Digital inputs are things that can be either on or off with nothing inbetween like a button or a switch. Similar to digital outputs we need to set the pinMode but this time we set the pinmode to input: `pinMode(button, INPUT);`. Alternatively, if we are using a button, sometimes we need to use an integrated pullup resistor. If this is the case, we set pinmode to input pullup `pinMode(button, INPUT_PULLUP);`. When we want to read the state of the button, the code will read `digitalRead(button)`, where button is a previously defined variable.
+Digital inputs are things that can be either on or off with nothing in between like a button or a switch. Similar to digital outputs we need to set the pinMode but this time we set the pinmode to input: `pinMode(button, INPUT);`. Alternatively, if we are using a button, sometimes we need to use an integrated pullup resistor. If this is the case, we set pinmode to input pullup `pinMode(button, INPUT_PULLUP);`. When we want to read the state of the button, the code will read `digitalRead(button)`, where button is a previously defined variable.
 ### Analog Input
-Analog inputs are things that can be in any state between high and low. One example is a Light Dependand Resistor (LDR). The resistance in an LDR changes based on how much light hits the sensor surface. Using Ohm's Law (V=IR), we can translate the change in resistance to a change in voltage. The Arduino can approximate what the voltage on the pin is. To do this we need to include the following lines of code: `pinMode (LIGHT, INPUT);` followed by `analogRead(LIGHT);` where LIGHT is a variable which defines which pin the LDR is on.  
+Analog inputs are things that can be in any state between high and low. One example is a Light Dependant Resistor (LDR). The resistance in an LDR changes based on how much light hits the sensor surface. Using Ohm's Law (V=IR), we can translate the change in resistance to a change in voltage. The Arduino can approximate what the voltage on the pin is. To do this we need to include the following lines of code: `pinMode (LIGHT, INPUT);` followed by `analogRead(LIGHT);` where LIGHT is a variable which defines which pin the LDR is on.  
 ### Non-Blocking Code
 Normal computers (and human brains) can think about more than one thing at once, but Arduinos (and other microcontrollers) cannot. That means that if you want to do two things at the same time (like blink a light once every 2 seconds and check if a button was pressed), and you do not know which will happen first or when one will happen, you cannot use the delay command. This is because when delay is called, the microcontroller just stops and will not notice if a button is being pressed. The user could wait 2 seconds (1 second light on 1 second light off) before the microcontroller got to the line of code where the button state is being read. This is too slow!
 
@@ -72,7 +72,7 @@ To fix this we use non-blocking code. This is a simple technique where you repla
 
 ### Uploading Code 
 * Download the [Arduino software](https://www.arduino.cc/en/Main/Software)
-* Select Arduino Uno under Tools > Baord in the Arduino software
+* Select Arduino Uno under Tools > Board in the Arduino software
 * Select the correct comport under Tools > Port in the Arduino software
 * Copy the code from the bottom of each video and paste into the Arduino IDE or [get the code from github](https://github.com/emilyhammes/Intro_to_Arduino_Shield).
 * Click on the arrow symbol in the Arduino IDE
