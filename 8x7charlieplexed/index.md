@@ -31,7 +31,7 @@ The 8x7 Charlieplexed Shield contains 56 LEDs in a 8x7 matrix and plugs into 8 a
 ### Soldering the Arduino Nano
 1. Solder the pin headers onto the Arduino Nano so that the pins point up on the same side as the USB. 
 
-Note: this is the opposite side to what is normally shown on the internet.
+Note: this is the opposite side to what is normally shown on the Internet.
 
 ### Building the Case
 1.	Glue the front and sides together leaving the back panel unglued. It is often useful to use the back to make sure all parts are aligned, but be very careful not to get glue on the back panel!

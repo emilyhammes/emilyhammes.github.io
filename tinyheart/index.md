@@ -5,7 +5,7 @@
 
 
 ## Introduction
-The Tiny Heart is a PCB shaped like a heart with 20 LEDs. The LEDS are intependantly controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatable. It comes pre-programmed in the kit.
+The Tiny Heart is a PCB shaped like a heart with 20 LEDs. The LEDS are independently controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatible. It comes pre-programmed in the kit.
 
 ## Theory
 <iframe id="ytplayer" type="text/html" width="640" height="360"
@@ -29,12 +29,12 @@ The Tiny Heart is a PCB shaped like a heart with 20 LEDs. The LEDS are intependa
 <img alt="schmatic" src="picture.jpg" width="100%" />
 
 1. Solder on all 20 LEDS paying attention to the LED orientation on the silkscreen.
-    - The LEDs are paired, so as long as all the LEDs have the same orientation (cathode down or annode down) it will not really matter.
+    - The LEDs are paired, so as long as all the LEDs have the same orientation (cathode down or anode down) it will not really matter.
 2. Solder the capacitor onto the PCB.
 3. Solder the ATtiny13A onto the PCB. 
 4. Solder the Resistors onto the PCB. 
 5. Solder the power cable onto the PCB.
-6. (Optional) Chain them together by soldering cables onto eachother.
+6. (Optional) Chain them together by soldering cables onto each other.
 
 ### Uploading Code 
 * Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/hearts-firmware).

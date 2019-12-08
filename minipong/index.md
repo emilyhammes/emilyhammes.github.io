@@ -28,7 +28,7 @@ Lets start with the theory for a single color multiplexed matrix:
   
 ### To solder the shield follow these steps:
   1. Solder the resistors.
-  2. Solder the matrix (for the LTP747 the text is on the oppostite side from pin 1, for the 757AS the text is on the same side as pin 1).
+  2. Solder the matrix (for the LTP747 the text is on the opposite side from pin 1, for the 757AS the text is on the same side as pin 1).
   3. Solder the button.
   4. Soler the pin headers.
 

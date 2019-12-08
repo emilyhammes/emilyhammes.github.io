@@ -5,7 +5,7 @@
   frameborder="0" allowfullscreen></iframe>
 
 ## Introduction
-The Tiny Dice is a PCB with 14 LEDs which represent 2 dice faces. The LEDS are controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatable. Code comes preloaded onto the microcontroller. 
+The Tiny Dice is a PCB with 14 LEDs which represent 2 dice faces. The LEDS are controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatible. Code comes preloaded onto the microcontroller. 
 
 ## Theory
 The dice are controlled using Charlieplexing:

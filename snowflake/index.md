@@ -5,7 +5,7 @@
 
 
 ## Introduction
-The Tiny Snowflake is a PCB shaped like a snow flake with 19 LEDs. The LEDS are independantly controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatable.
+The Tiny Snowflake is a PCB shaped like a snow flake with 19 LEDs. The LEDS are independently controlled by an ATTINY 13 using charlieplexing. Code is uploaded to the device with AVR dude using a Bus Pirate, a AVRisp mk II or similar. It is not arduino compatible.
 
 ## Theory
 <iframe id="ytplayer" type="text/html" width="640" height="360"
@@ -34,7 +34,7 @@ The Tiny Snowflake is a PCB shaped like a snow flake with 19 LEDs. The LEDS are 
 3. Solder the ATtiny13A onto the PCB. 
 4. Solder the Resistors onto the PCB. 
 5. Solder the power cable onto the PCB.
-6. (Optional) Chain them together by soldering cables onto eachother.
+6. (Optional) Chain them together by soldering cables onto each other.
 
 ### Uploading Code 
 * Code comes pre-uploaded to the ATtiny. [The source can be found on github](https://github.com/emilyhammes/snowflake-firmware).
