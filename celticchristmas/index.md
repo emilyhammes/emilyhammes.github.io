@@ -4,10 +4,10 @@
 I have a tiny apartment and it needed a matching Christmas tree. 
 
 ## Introduction
-The Celtic Christmas kit is 4 PCBs built on a single board which break appart and are soldered into a 3D celtic knot shapped like a christmas tree. 
+The Celtic Christmas kit is 4 PCBs built on a single board which break apart and are soldered into a 3D Celtic knot shaped like a christmas tree. 
 
 ## Theory
-Each of the 4 PCBs contain the same circut. Actually, it is the same circut and program as the heart, dragonfly and shamrock. Specifically, there are 4 Attinys wich each controll 20 LEDs which blink independantly. The LEDs are controlled by charlieplexing.
+Each of the 4 PCBs contain the same circuit. Actually, it is the same circuit and program as the heart, dragonfly and shamrock. Specifically, there are 4 Attinys which each control 20 LEDs which blink independently. The LEDs are controlled by charlieplexing.
 
 For more information on charlieplexing watch this video:
 
@@ -23,8 +23,8 @@ For more information on charlieplexing watch this video:
 * 4 Attiny13As
 * 4 0603 capacitors
 * 3.3 to 5V power (batteries/USB etc.)
-* (optional) 1 throughhole LED, to use as a star.
-* (optional) 2 0603 resistors which make the throughhole LED the correct brightness.
+* (optional) 1 through hole LED, to use as a star.
+* (optional) 2 0603 resistors which make the through hole LED the correct brightness.
 
 ### Soldering the tree:
 1. Break the PCB into 3 parts: 2, 5 by 10 cm triangles; 1, 10 x 10 cm triangle. 
@@ -39,7 +39,7 @@ For more information on charlieplexing watch this video:
 4. If you want to add a star to the tree, solder the two top resistors on one of the 5x10 cm triangles. This will make one side of the PCB + and the other - on this PCB. DO NOT DO THIS FOR ALL ARMS BECAUSE YOU WILL DRAMATICALY INCREASE THE POWER CONSUMPTION OF THE KIT.
 5. Solder the Tinys. These must be the correct orientation. Note the pink dots in the image.
 6. Solder the power cable
-7. Soler the PCBs at right angles to eachother so that you have a tree. 
+7. Soler the PCBs at right angles to each other so that you have a tree. 
 8. Turn the tree on and make sure that power and ground have a very high resistance. If they do, this is because you soldered all the resistors for the star and not just one set. 
 
 ## Whats Inside the PCB?
