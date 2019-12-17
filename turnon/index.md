@@ -1,5 +1,8 @@
 # You Turn Me On
 
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NkRfUhv8GNw?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
+
+
 ## Inspiration
 At 34C3 I taught a workshop on soldering and programming arduino shields. Many of my students were in relationships with electrical engineers or computer programmers. After the class, many boyfriends and girlfriends of my students were very excited. They came up to me and said, "I have been trying to get my girlfriend to program for years, and last night she spent all night shopping on Aliexpress and adafruit." This kit reminds me of their happiness. 
 
@@ -16,6 +19,9 @@ For more information on how buttons work:
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/C5elus14muQ?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 ## Assembly
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/_cScy0WlOZU?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
+
 
 ### Materials
 
