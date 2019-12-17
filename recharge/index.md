@@ -1,5 +1,8 @@
 # Recharge
 
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/62jpyT8Pkc0?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
+
+
 ## Inspiration
 
 This kit was inspired by Markus, a colleague at my local hackspace. Originally, he developed an analog circuit which looks very similar to this kit. At about the same time, I was giving a workshop in Zurich, and many parents wanted a 15 minute through hole only kit.  With the fusion of these ideas, the Recharge kit was born. 
