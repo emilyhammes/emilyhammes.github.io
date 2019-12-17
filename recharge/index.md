@@ -21,6 +21,11 @@ For more information on how buttons work:
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/C5elus14muQ?autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 ## Assembly
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/3g6usZyv4-M?autoplay=0&origin=http://hammeshacks.com"
+  frameborder="0" allowfullscreen></iframe>
+
 ### Components
 * 6 5mm LEDs
 * 3 Resistors
