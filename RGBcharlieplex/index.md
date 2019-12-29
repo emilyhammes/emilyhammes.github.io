@@ -60,7 +60,7 @@ Once you are done soldering, it is time to upload the test code. Play with the d
   * If you remove all the delays in the test code, all the LEDs should light up a white-ish color.
   
 ## Uploading Final Code
-Once the shield is debugged, upload the word clock code.
+Once the shield is debugged, upload the word clock [code](https://github.com/emilyhammes/charlieplexedrgb-firmware).
 
 
 ## Whats Inside the PCB?
