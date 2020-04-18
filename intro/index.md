@@ -3,7 +3,7 @@
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/videoseries?list=PLOODSiZqm-6Vm45pemXBhKMmCtVTKruHo&autoplay=0&origin=http://hammeshacks.com" frameborder="0" allowfullscreen></iframe>
 
 ## How to Register 
-### At Chaos Communicaitons Congress
+### At Chaos Communications Congress
 Buy a kit from me at during my [store hours](http://hammeshacks.com/Shop/). Put your name on the register for the day you want. Come to the class.
 
 ## Introduction
